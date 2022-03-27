@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "juampymdd",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@boltz/bolt11": "^1.2.7"
+  }
 }
